@@ -25,5 +25,9 @@ void main(){
     printf("Digo, é de %.2f kg", 94.5);
     printf("\n");
 
+    // char
+    printf("%c", 'M');
+    printf("\n");
+
     system("pause");
 }
