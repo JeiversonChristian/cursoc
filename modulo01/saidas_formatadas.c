@@ -7,5 +7,10 @@ void main(){
     printf("\n");
     printf("%i",400);
     printf("\n");
+
+    // para imprimir uma string usa-se %s
+    printf("%s", "Jeiverson");
+    printf("\n");
+
     system("pause");
 }
