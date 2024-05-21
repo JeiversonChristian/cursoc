@@ -29,5 +29,9 @@ void main(){
     printf("%c", 'M');
     printf("\n");
 
+    // e
+    printf("%e", 20.0);
+    printf("\n");
+
     system("pause");
 }
