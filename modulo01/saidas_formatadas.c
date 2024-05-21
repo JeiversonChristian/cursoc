@@ -12,5 +12,9 @@ void main(){
     printf("%s", "Jeiverson");
     printf("\n");
 
+    // misturando os dois tipos
+    printf("%s tem %i anos de idade.", "Jeiverson", 31);
+    printf("\n");
+
     system("pause");
 }
